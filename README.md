@@ -1,4 +1,6 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+I am working on this Repo to try few research methods. Code is not structured into folders. This repo is not currently not maintained.
+
+**Status:** Archive (code is provided as-is, no updates expected from OpenAI)
 
 
 # pixel-cnn++
